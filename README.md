@@ -1,11 +1,11 @@
-# myip
+# MyIP
 A simple command line tool to get your public IP address and other information.
 
 ## Quickstart
 
 ```bash
 $ myip
-$ 123.456.789.012 # your public IP address
+  123.456.789.012 # your public IP address
 ```
 
 ## Arguments
