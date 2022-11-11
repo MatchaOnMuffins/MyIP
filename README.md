@@ -5,13 +5,14 @@ A simple command line tool to get your public IP address and other information.
 
 ```bash
 $ myip
+$ 123.456.789.012 # your public IP address
 ```
 
 ## Arguments
 A list of arguments can be found by running `myip --help`.
 
 ## Installation
-Use Autoconf to build and install the program.
+Use make to build and install the binary.
 
 ```bash
 $ mkdir build
