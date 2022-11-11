@@ -12,8 +12,7 @@ $ myip
 A list of arguments can be found by running `myip --help`.
 
 ## Installation
-Use make to build and install the binary.
-libcurl is required to build the binary.
+libcurl and make are required to build MyIP.
 
 To install libcurl on Ubuntu:
 ```bash
@@ -25,7 +24,7 @@ To install libcurl on macOS:
 $ brew install curl
 ```
 
-To build and install the binary:
+To build and install MyIP:
 ```bash
 $ mkdir build
 $ cd build
