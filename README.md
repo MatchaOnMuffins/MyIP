@@ -1,4 +1,5 @@
 # myip
+A simple command line tool to get your public IP address and other information.
 
 ## Quickstart
 
